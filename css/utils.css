@@ -22,15 +22,14 @@
     .centerize-l-card{margin-left: 0%;}
     .centerize-2ndl-card{margin-left: 0%;}
     .profile-photo-auto{
-        float:left;
-        position: absolute;
-        top:60%;
-        left:30%;
+        position: relative;
+        top:1.3%;
+        left:25%;
         height:390px;
         width:300px;
     }
     .right-auto{
-        height:390px;
+        height:400px;
     }
 }
 @media only screen and (min-width: 721px) {
@@ -58,15 +57,14 @@
     .centerize-l-card{margin-left: 0%;}
     .centerize-2ndl-card{margin-left: 0%;}
     .profile-photo-auto{
-        float:left;
-        position: absolute;
-        top:60%;
-        left:30%;
+        position: relative;
+        top:1.3%;
+        left:35%;
         height:390px;
         width:300px;
     }
     .right-auto{
-        height:390px;
+        height:400px;
     }
 }
 @media only screen and (min-width: 1080px) {
@@ -92,15 +90,14 @@
     .centerize-l-card{margin-left: 0%;}
     .centerize-2ndl-card{margin-left: 0%;}
     .profile-photo-auto{
-        float:left;
-        position: absolute;
-        top:18%;
-        left:75%;
+        position: relative;
+        top:3.5%;
+        left:20%;
         height:325px;
         width:250px;
     }
     .right-auto{
-        height:325px;
+        height:350px;
     }
 }
 @media only screen and (min-width: 1200px) {
@@ -128,15 +125,14 @@
     .centerize-l-card{margin-left: 0%;}
     .centerize-2ndl-card{margin-left: 25%;}
     .profile-photo-auto{
-        float:left;
-        position: absolute;
-        top:18%;
-        left:75%;
+        position: relative;
+        top:3.5%;
+        left:20%;
         height:325px;
         width:250px;
     }
     .right-auto{
-        height:325px;
+        height:350px;
     }
 
 }
