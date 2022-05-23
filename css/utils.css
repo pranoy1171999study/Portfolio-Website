@@ -29,6 +29,9 @@
         height:390px;
         width:300px;
     }
+    .right-auto{
+        height:390px;
+    }
 }
 @media only screen and (min-width: 721px) {
     .col-s-1 {width: 8.33%;}
@@ -62,6 +65,9 @@
         height:390px;
         width:300px;
     }
+    .right-auto{
+        height:390px;
+    }
 }
 @media only screen and (min-width: 1080px) {
     .col-m-1 {width: 8.33%;}
@@ -92,6 +98,9 @@
         left:75%;
         height:325px;
         width:250px;
+    }
+    .right-auto{
+        height:325px;
     }
 }
 @media only screen and (min-width: 1200px) {
@@ -125,6 +134,9 @@
         left:75%;
         height:325px;
         width:250px;
+    }
+    .right-auto{
+        height:325px;
     }
 
 }
