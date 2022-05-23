@@ -7,13 +7,7 @@
 body{
     background-color: rgb(0, 0, 0);
 }
-#profile_img{
-    float: right;
-    margin: auto;
-    height: 100px;
-    background-color: aqua;
 
-}
 #header{
     position: relative;
     padding-top: 0px;
@@ -70,7 +64,7 @@ h{
 }
 #right-section{
     float: left;
-    background-color:aqua;
+    padding-left: auto;
     background-color: black;
 }
 #left-section{
@@ -206,6 +200,4 @@ details>ui>li{
     height: 50px;
     background-color: black;
 }
-#right-section{
-    background-color: black;
-}
+
