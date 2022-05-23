@@ -1,0 +1,212 @@
+*{
+    padding: 0px;
+    height: auto;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+#profile_img{
+    float: right;
+    margin: auto;
+    height: 100px;
+    background-color: aqua;
+
+}
+#header{
+    position: relative;
+    padding-top: 0px;
+    float: right;
+    margin: auto;
+    background-color: black;
+}
+.main-tag{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    float: left;
+    color: white;
+}
+.tag-line{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    color: rgb(176, 152, 0);
+}
+
+.btn{
+    width:4%;
+    height: auto;
+    float: right;
+    margin-right: 4%;
+    margin-top: 4%;
+    text-align: right;
+    box-sizing: content-box;
+    padding-left: 3%;
+    padding-right: 0px;
+    color:aquamarine;
+    background-color: rgb(128, 1, 1);
+    border-radius: 6px;
+}
+.btn1{
+    border-radius:0px ;
+    margin-right: 0px;
+    background-color: black;
+    padding-left: 40%;
+    text-align: center;
+}
+h{
+    color:white;
+}
+.hi{
+    color:aliceblue;
+    text-align:center;
+}
+
+
+#section{
+    height: 350px;
+}
+#right-section{
+    float: left;
+    height: 100%;
+    background-color:aqua;
+    background-color: black;
+}
+#left-section{
+    position: relative;
+    float: left;
+    height: 100%;
+    background-color:black;
+
+}
+.tag-line{
+    position: absolute;
+    color: rgb(187, 67, 24);
+    font-size:40px;
+    top:10%;
+    left:15%;
+
+}
+#about-me{
+    position: absolute;
+    color: aliceblue;
+    top: 40%;
+    left: 30%;
+}
+
+section{
+    margin-bottom:10px;
+    height: auto;
+}
+
+#card-container{
+    float:left;
+    width: 100%;
+    margin: auto;
+    padding: auto;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    height:auto;
+}
+.card-shell{
+    float:left;
+    height: 180px;
+    padding: 10px;
+    margin: auto;
+}
+.card{
+    width: 100%;
+    height: 100%;
+    padding:3%;
+    padding-top: 0px;
+    padding-right: 0px;
+    margin-top: 2%;
+    border-radius: 15px;
+    border:2px solid white;
+    background-color: rgb(187, 67, 24);
+    transition: 0.1s;
+}
+.card:hover{
+    box-shadow: 0 5px 10px 0 rgb(120, 239, 255);
+    border:0px;
+}
+
+.card-name{
+    float: right;
+    border-radius:0px  15px 0px 15px;
+    border:3px solid black;
+    height: 30%;
+    background-color: rgb(0, 0, 0);
+    width: 45%;
+    text-align: center;
+    color: rgb(175, 181, 0);
+}
+
+#card-details{
+    float: left;
+    color:white;
+    float: left;
+    width: 100%;
+    height:auto;
+    margin:0%;
+    border:3px solid maroon;
+    border-radius: 5%;
+    background-color: rgb(0, 0, 0);
+}
+
+.details-card-shell{
+    float:left;
+    height:200px;
+    width:50%;
+    padding:15px;
+    background-color: rgb(0, 0, 0);
+}
+.details-card{
+    height:100%;
+    width:100%;
+    padding-left: 3%;
+    border-left: 3px solid yellow;
+    border-radius: 5px 0px 0px 5px;;
+    background-color: rgb(0, 0, 0);
+}
+
+.heading{
+    color:rgb(110, 157, 0);
+    font-size: 22px;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+li{
+    margin-left: 5%;
+}
+h3{
+    color: rgb(229, 207, 5);
+}
+details{
+    color:rgb(0, 255, 8);
+}
+details>ui{
+    color:rgb(167, 243, 240);
+}
+details>ui>li{
+    color:rgb(255, 255, 255);
+}
+#mnnit{
+    background: url(https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.mnnit.ac.in%2F&psig=AOvVaw1UZETW7Zd2LANgmNS0c9wv&ust=1653299562751000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi2-vzq8vcCFQAAAAAdAAAAABAJ) no-repeat bottom;
+    height:40px;
+    width: 40px;
+    object-fit:contain;
+}
+#footer{
+    float: left;
+    height: 50px;
+    background-color: black;
+}
+#right-section{
+    background-color: black;
+}

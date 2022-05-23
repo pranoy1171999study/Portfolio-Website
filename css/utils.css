@@ -1,0 +1,149 @@
+@media only screen and (max-width: 720px) {
+    .col-xs-1 {width: 8.33%;}
+    .col-xs-2 {width: 16.66%;}
+    .col-xs-3 {width: 25%;}
+    .col-xs-4 {width: 33.33%;}
+    .col-xs-5 {width: 41.66%;}
+    .col-xs-6 {width: 50%; font-size: 5px; }
+    .col-xs-7 {width: 58.33%;}
+    .col-xs-8 {width: 66.66%;}
+    .col-xs-9 {width: 75%;}
+    .col-xs-10 {width: 83.33%;}
+    .col-xs-11 {width: 91.66%;}
+    .col-xs-12 {width: 100%; font-size: 12px;}
+    .img-rc-xs {width: 100%; height:auto;}
+    .name-size{font-size: 30px;}
+    .hi-size{font-size: 10px;}
+    .tag-line-auto{font-size:30px;}
+    .header-auto{height: 95px;}
+    .card-auto{width:80%;}
+    .card-container-padding{padding-left: 15%;}
+    .card-auto{width:80%;}
+    .centerize-l-card{margin-left: 0%;}
+    .centerize-2ndl-card{margin-left: 0%;}
+    .profile-photo-auto{
+        float:left;
+        position: absolute;
+        top:60%;
+        left:30%;
+        height:390px;
+        width:300px;
+    }
+}
+@media only screen and (min-width: 721px) {
+    .col-s-1 {width: 8.33%;}
+    .col-s-2 {width: 16.66%;}
+    .col-s-3 {width: 25%;}
+    .col-s-4 {width: 33.33%;}
+    .col-s-5 {width: 41.66%;}
+    .col-s-6 {width: 50%;}
+    .col-s-7 {width: 58.33%;}
+    .col-s-8 {width: 66.66%;}
+    .col-s-9 {width: 75%;}
+    .col-s-10 {width: 83.33%;}
+    .col-s-11 {width: 91.66%;}
+    .col-s-12 {width: 100%;}
+
+    .img-rc-xs {width: 100%; height:auto;}
+    .name-size{font-size: 35px;}
+    .hi-size{font-size: 12px;}
+    .tag-line-auto{font-size:32px;}
+    .header-auto{height: 100px;}
+
+    .card-container-padding{padding-left: 7.5%;}
+    .card-auto{width:45%;}
+    .centerize-l-card{margin-left: 0%;}
+    .centerize-2ndl-card{margin-left: 0%;}
+    .profile-photo-auto{
+        float:left;
+        position: absolute;
+        top:60%;
+        left:30%;
+        height:390px;
+        width:300px;
+    }
+}
+@media only screen and (min-width: 1080px) {
+    .col-m-1 {width: 8.33%;}
+    .col-m-2 {width: 16.66%;}
+    .col-m-3 {width: 25%;}
+    .col-m-4 {width: 33.33%;}
+    .col-m-5 {width: 41.66%;}
+    .col-m-6 {width: 50%; }
+    .col-m-7 {width: 58.33%;}
+    .col-m-8 {width: 66.66%;}
+    .col-m-9 {width: 75%;}
+    .col-m-10 {width: 83.33%;}
+    .col-m-11 {width: 91.66%;}
+    .col-m-12 {width: 100%;}
+    .img-rc-xs {width: 100%; height:auto;}
+    .name-size{font-size: 40px;}
+    .hi-size{font-size: 15px;}
+    .tag-line-auto{font-size:35px;}
+    .header-auto{height: 110px;}
+    .card-container-padding{padding-left: 0%;padding-right: 0%;}
+    .card-auto{width:33.33%;}
+    .centerize-l-card{margin-left: 0%;}
+    .centerize-2ndl-card{margin-left: 0%;}
+    .profile-photo-auto{
+        float:left;
+        position: absolute;
+        top:18%;
+        left:75%;
+        height:325px;
+        width:250px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .col-l-1 {width: 8.33%;}
+    .col-l-2 {width: 16.66%;}
+    .col-l-3 {width: 25%;}
+    .col-l-4 {width: 33.33%;}
+    .col-l-5 {width: 41.66%;}
+    .col-l-6 {width: 50%;}
+    .col-l-7 {width: 58.33%;}
+    .col-l-8 {width: 66.66%;}
+    .col-l-9 {width: 75%;}
+    .col-l-10 {width: 83.33%;}
+    .col-l-11 {width: 91.66%;}
+    .col-l-12 {width: 100%;}
+
+    .img-rc-xs {width: 100%; height:auto;}
+    .name-size{font-size: 50px;}
+    .hi-size{font-size: 20px;}
+    .tag-line-auto{font-size:38px;}
+    .header-auto{height: 120px;}
+
+    .card-container-padding{padding-left: 0%;padding-right: 0%;}
+    .card-auto{width:25%;}
+    .centerize-l-card{margin-left: 0%;}
+    .centerize-2ndl-card{margin-left: 25%;}
+    .profile-photo-auto{
+        float:left;
+        position: absolute;
+        top:18%;
+        left:75%;
+        height:325px;
+        width:250px;
+    }
+
+}
+.hidden{
+    display: none;
+}
+.height-auto{
+    height: auto;
+}
+a.coustom{
+    color: aqua;
+}
+a.coustom:visited{
+    color: rgb(246, 148, 2);
+}
+.first-pair-color{
+    color: rgb(90, 181, 255);
+}
+.button-details{
+    background-color: rgb(255, 255, 255);
+    float: right;
+}
